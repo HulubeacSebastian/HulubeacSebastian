@@ -4,7 +4,7 @@ I'm a Computer Science student at **Babeș-Bolyai University (UBB)** in Cluj-Nap
 
 - 🎓 **Student at:** Faculty of Mathematics and Computer Science (English Line)
 - 💻 **Passionate about:** Software Engineering, Algorithms, and Web Technologies
-- 🌱 **Currently learning: C# / .NET Ecosystem, Full-Stack Web Development, and Database Management
+- 🌱 **Currently learning:** C# / .NET Ecosystem, Full-Stack Web Development, and Database Management
 - 🚀 **Goal:** To build scalable applications and contribute to impactful engineering teams
 
 ---
