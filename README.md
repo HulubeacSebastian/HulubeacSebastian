@@ -34,5 +34,5 @@ I'm a Computer Science student at **Babeș-Bolyai University (UBB)** in Cluj-Nap
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulubeacSebastian&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HulubeacSebastian&layout=compact&theme=dark&hide_border=true&v=1" alt="Top Languages" />
 </p>
