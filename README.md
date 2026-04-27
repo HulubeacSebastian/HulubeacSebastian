@@ -30,7 +30,7 @@ I'm a Computer Science student at **Babeș-Bolyai University (UBB)** in Cluj-Nap
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HulubeacSebastian&show_icons=true&theme=dark&hide_border=true" alt="Sebastian's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HulubeacSebastian&show_icons=true&theme=dark&hide_border=true&hide_rank=true" alt="Sebastian's Stats" />
 </p>
 
 <p align="center">
